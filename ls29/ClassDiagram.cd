@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Plant">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAABEAAAAAAAAQAARABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAACAQAAAAAAAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flower" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAA4gAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rose" Collapsed="true">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAQAAAAAAACAAAAAgAAIAAA=</HashCode>
+      <FileName>Rose.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
